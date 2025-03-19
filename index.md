@@ -13,8 +13,8 @@ humandate: "April 14, 2025"    # human-readable dates for the workshop (e.g., "F
 humantime: "8:30AM - 4:00PM EST"    # human-readable times for the workshop e.g., "9:00 am - 4:30 pm CEST (7:00 am - 2:30 pm UTC)"
 startdate: 2025-04-14      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2024-10-31        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
-instructor: ["Sheldon McKay, Instructor2"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
-helper: ["Haizi Zheng","Ayush Saxena","Mohammed Hussain","Zebulun Arendsee","Huan Jin","Marina Lehmkuhl"] 
+instructor: ["Marina lehmkuhl, Haizi Zheng"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
+helper: ["Ayush Saxena","Mohammed Hussain","Zebulun Arendsee","Huan Jin"] 
 email: ["sheldon.mckay@regeneron.com"]  
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
